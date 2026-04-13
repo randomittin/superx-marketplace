@@ -1,0 +1,24 @@
+{
+  "name": "superx-marketplace",
+  "owner": {
+    "name": "superx contributors"
+  },
+  "metadata": {
+    "description": "Marketplace for superx — autonomous superskill manager for Claude Code with a pixel-art dashboard"
+  },
+  "plugins": [
+    {
+      "name": "superx",
+      "source": {
+        "source": "github",
+        "repo": "randomittin/superx",
+        "ref": "main"
+      },
+      "description": "Autonomous superskill manager — turns a single prompt into a finished project. Spawns parallel agents, enforces quality gates, ships with CTO-level judgment. Includes a real-time pixel-art dashboard.",
+      "version": "1.0.0",
+      "author": {
+        "name": "superx contributors"
+      }
+    }
+  ]
+}
