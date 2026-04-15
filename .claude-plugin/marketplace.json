@@ -10,8 +10,8 @@
     {
       "name": "superx",
       "source": {
-        "source": "github",
-        "repo": "randomittin/superx",
+        "source": "url",
+        "url": "https://github.com/randomittin/superx.git",
         "ref": "main"
       },
       "description": "Autonomous superskill manager — turns a single prompt into a finished project. Spawns parallel agents, enforces quality gates, ships with CTO-level judgment. Includes a real-time pixel-art dashboard.",
